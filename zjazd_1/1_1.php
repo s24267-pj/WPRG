@@ -1,3 +1,3 @@
 <?php
-echo(" Witaj w świecie PHP!!!")
+echo(" Witaj w świecie PHP!!!");
 ?>
