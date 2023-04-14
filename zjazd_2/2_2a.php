@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<form name="formularz" action="2_2.php">
+<form name="formularz" action="2_2b.php">
 
     <label for="guestNumber">Wybierz ilość gości:</label>
 
